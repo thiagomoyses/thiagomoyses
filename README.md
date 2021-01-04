@@ -6,7 +6,7 @@ Hello, I'm Thiago Moyses, a passionate self-taught Full Stack Developer, pentest
   
 **Talking about Personal Stuffs:**
 
-- 💻✈ I’m currently working as an I.T Support Analyst at the international airport of campinas;
+- 💻✈ I’m currently working as an I.T Support Analyst at the international airport of campinas - BR;
 - :iphone: I’m currently learning Java for mobile;
 - 💬 Ask me about anything, I am happy to help;
 
