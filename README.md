@@ -2,7 +2,7 @@
 
 Hello, I'm Thiago Moyses, a passionate self-taught Full Stack Developer, pentester and I.T Support Analyst 🚀 from Brazil, but soon, in France.
 
-  <img align="right" alt="GIF" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/gif_code.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/gif_code.gif" width="500" height="200" />
   
 **Talking about Personal Stuffs:**
 
