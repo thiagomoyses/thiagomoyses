@@ -19,30 +19,9 @@ Hello, I'm Thiago Moyses, a passionate self-taught Full Stack Developer, pentest
 <code><img height="40" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/bootstrap-plain-wordmark.svg"></code>
 <code><img height="40" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/css3-original-wordmark.svg"></code>
 <code><img height="40" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/html5-original-wordmark.svg"></code>
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-C++        4 hrs           ████████████████▒░░░░░░░░   65.62 % 
-XML        1 hr 9 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Markdown   54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-YAML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-```
-<!--END_SECTION:waka-->
-
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  6,694 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 507 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+<code><img height="40" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/c-line.svg"></code>
 
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thiagomoyses&show_icons=true&theme=gotham" alt="thiagomoyses" />
