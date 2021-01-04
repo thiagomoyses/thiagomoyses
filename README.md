@@ -24,4 +24,4 @@ Hello, I'm Thiago Moyses, a passionate self-taught Full Stack Developer, pentest
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thiagomoyses&show_icons=true&theme=gotham" alt="thiagomoyses" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thiagomoyses&show_icons=true&theme=dracula" alt="thiagomoyses" />
