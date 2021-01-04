@@ -12,14 +12,14 @@ Hello, I'm Thiago Moyses, a passionate self-taught Full Stack Developer, pentest
 
 **Languages and Tools:**  
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/java-original-wordmark.svg"></code>
-<code><img height="40" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/android-original-wordmark.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/bootstrap-plain-wordmark.svg"></code>
-<code><img height="40" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/css3-original-wordmark.svg"></code>
-<code><img height="40" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/html5-original-wordmark.svg"></code>
-<code><img height="40" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/c-line.svg"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/java-original-wordmark.svg"></code>
+<code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/android-original-wordmark.svg"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/bootstrap-plain-wordmark.svg"></code>
+<code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/css3-original-wordmark.svg"></code>
+<code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/html5-original-wordmark.svg"></code>
+<code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/c-line.svg"></code>
 
 
 📈 My GitHub Stats
