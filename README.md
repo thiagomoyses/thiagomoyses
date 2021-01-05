@@ -19,7 +19,11 @@ Hello, I'm Thiago Moyses, a passionate self-taught Full Stack Developer, pentest
 <code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/bootstrap-plain-wordmark.svg"></code>
 <code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/css3-original-wordmark.svg"></code>
 <code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/html5-original-wordmark.svg"></code>
-<code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/c-line.svg"></code>
+<code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/c-line.svg"></code><br>
+<code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/mysql-plain.svg"></code>
+<code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/laravel-plain-wordmark.svg"></code>
+<code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/php-original.svg"></code>
+<code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/linux-original.svg"></code>
 
 
 📈 My GitHub Stats
