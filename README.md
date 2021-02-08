@@ -1,14 +1,22 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br />
+### Salut <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hello, I'm Thiago Moyses, a passionate self-taught Full Stack Developer, pentester and I.T Support Analyst 🚀 from Brazil, but soon, in France.
+Hello everyone, my name is Thiago Moyses, i am a student of computer engineering 💻 and passionate for technology.<br />
+Salut a tous, je m'appelle Thiago Moyes, je suis étudiant en génie informatique 💻 et passioné de technologie.<br /><br />
+
+Since i was a kid, i am a self-taught, so i am always interested to learn a new technology, and improve my knowledge by myself.<br />
+Depuis que je suis enfant, je suis un autodidacte, donc je suis toujours intéressé à apprendre une neuvelle technologie et à améliorer mes connaissances par moi-même.<br /><br />
+
 
   <img align="right" alt="GIF" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/gif_code.gif" width="500" height="200" />
   
 **Talking about Personal Stuffs:**
 
-- 💻 I’m currently working as an Support Technician - On Going in a company called ART IT, located in Campinas-SP(BR);
-- :iphone: I’m currently learning Java for mobile;
-- 💬 Ask me about anything, I am happy to help;
+- 💻 Currently, i am working in Brazil to a company called ART-IT Intelligent Technology as a systems development analyst.
+- 💻 Actuellement, je travail au brésil dans une compagnie qui s'appelle ART-IT Intelligent Technology, en tant que analyste en développement de systèmes.
+
+- 💬 Ask me about anything, I am happy to help.
+- 💬 Vous pouvez tout me demander. Je serai très heureux de vous aider
 
 **Languages and Tools:**  
 
