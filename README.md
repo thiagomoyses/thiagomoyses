@@ -1,4 +1,4 @@
-### Hey there <img src="https://giphy.com/gifs/349qKnoIBHK1i/html5" width="25px">
+### Hey there <img src="https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif" width="25px">
 
 Hello everyone, my name is Thiago Moyses, i am a student of computer engineering 💻 and passionate for technology.<br />
 
