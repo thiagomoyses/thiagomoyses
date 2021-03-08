@@ -1,10 +1,10 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://giphy.com/gifs/349qKnoIBHK1i/html5" width="25px">
 
 Hello everyone, my name is Thiago Moyses, i am a student of computer engineering 💻 and passionate for technology.<br />
 
 Since i was a kid, i am a self-taught, so i am always interested to learn a new technology, and improve my knowledge by myself.<br />
 
-  <img align="right" alt="GIF" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/gif_code.gif" width="500" height="200" />
+  <img align="right" alt="GIF" src="" width="500" height="200" />
   
 **Talking about Personal Stuffs:**
 
