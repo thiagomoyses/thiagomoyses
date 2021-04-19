@@ -8,7 +8,7 @@ Since i was a kid, i am a self-taught, so i am always interested to learn a new 
   
 **Talking about Personal Stuffs:**
 
-- Currently, i am working in Brazil to a company called ART-IT Intelligent Technology as a systems developer analyst.
+- Currently, i am looking for a new professional challenge.
 - I use my free time to develop my knowledge, and improve the quality of my codes
 - As a hobby, i like to learn new languages, and currently, i am learning french 
 - You can ask me about anything, I am happy to help everyone 💬.
