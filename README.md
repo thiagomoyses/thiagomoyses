@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-Hello everyone, my name is Thiago Moyses, i am a student of computer engineering 💻 and passionate for technology.<br />
+My name is Thiago Moyses, i am a student of computer engineering 💻 and passionate for technology.<br />
 
 Since i was a kid, i am a self-taught, so i am always interested to learn a new technology, and improve my knowledge by myself.<br />
 
@@ -8,7 +8,7 @@ Since i was a kid, i am a self-taught, so i am always interested to learn a new 
   
 **Talking about Personal Stuffs:**
 
-- Currently, i am looking for a new professional challenge.
+- Currently, i am working as a software developer at IBM.
 - I use my free time to develop my knowledge, and improve the quality of my codes
 - As a hobby, i like to learn new languages, and currently, i am learning french 
 - You can ask me about anything, I am happy to help everyone 💬.
