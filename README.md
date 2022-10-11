@@ -28,7 +28,7 @@ Since i was a kid, i am a self-taught, so i am always interested to learn a new 
 <code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/php-original.svg"></code>
 <code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/linux-original.svg"></code>
 
-
+<!----
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thiagomoyses&show_icons=true&theme=dracula" alt="thiagomoyses" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thiagomoyses&show_icons=true&theme=dracula" alt="thiagomoyses" /> ---->
