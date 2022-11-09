@@ -4,7 +4,7 @@ My name is Thiago Moyses, i am a student of computer engineering 💻 and passio
 
 Since i was a kid, i am a self-taught, so i am always interested to learn a new technology, and improve my knowledge by myself.<br />
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif" width="500" height="200" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif" width="400" height="300" />
   
 **Talking about Personal Stuffs:**
 
