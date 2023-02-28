@@ -8,7 +8,7 @@ Since i was a kid, i am a self-taught, so i am always interested to learn a new 
   
 **Talking about Personal Stuffs:**
 
-- Currently, i am working as a software developer at IBM.
+- Currently, i am working as a Senior full-stack software developer at Smart Consulting Portugal.
 - I use my free time to develop my knowledge, and improve the quality of my codes
 - As a hobby, i like to learn new languages, and currently, i am learning french 
 - You can ask me about anything, I am happy to help everyone 💬.
