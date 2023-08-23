@@ -27,6 +27,10 @@ Since i was a kid, i am a self-taught, so i am always interested to learn a new 
 <code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/laravel-plain-wordmark.svg"></code>
 <code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/php-original.svg"></code>
 <code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/linux-original.svg"></code>
+<code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/file-type-reactjs.svg"></code>
+<code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/javascript.svg"></code>
+<code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/nodejs.svg"></code>
+<code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/spring.svg"></code>
 
 <!----
 📈 My GitHub Stats
