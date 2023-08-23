@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-My name is Thiago Moyses, i am a student of computer engineering 💻 and passionate for technology.<br />
+My name is Thiago Moyses, i am a student of full-stack developer 💻 and passionate for technology.<br />
 
 Since i was a kid, i am a self-taught, so i am always interested to learn a new technology, and improve my knowledge by myself.<br />
 
