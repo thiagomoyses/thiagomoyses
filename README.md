@@ -17,7 +17,6 @@ Since i was a kid, i am a self-taught, so i am always interested to learn a new 
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/java-original-wordmark.svg"></code>
-<code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/android-original-wordmark.svg"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/bootstrap-plain-wordmark.svg"></code>
 <code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/css3-original-wordmark.svg"></code>
