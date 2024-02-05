@@ -1,19 +1,18 @@
 ### Hey there 👋
 
-My name is Thiago Moyses, i am a student of full-stack developer 💻 and passionate for technology.<br />
+My name is Thiago Moyses, i am a full-stack developer 💻 and passionate for technology.<br />
 
 Since i was a kid, i am a self-taught, so i am always interested to learn a new technology, and improve my knowledge by myself.<br />
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif" width="400" height="300" />
   
-**Talking about Personal Stuffs:**
+**Personal:**
 
-- Currently, i am working as a Senior full-stack software developer at Smart Consulting Portugal.
-- I use my free time to develop my knowledge, and improve the quality of my codes
-- As a hobby, i like to learn new languages, and currently, i am learning french 
-- You can ask me about anything, I am happy to help everyone 💬.
+- Living in France 🇫🇷
+- Football lover ⚽
+- Trying to learn some new languages 🇯🇵 🇷🇺
 
-**Languages and Tools:**  
+**Dev languages and Tools:**  
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/docker-original-wordmark.svg"></code>
