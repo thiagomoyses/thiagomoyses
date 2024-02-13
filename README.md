@@ -12,7 +12,7 @@ Since i was a kid, i am a self-taught, so i am always interested to learn a new 
 - Football lover ⚽
 - Trying to learn some new languages 🇯🇵 🇷🇺
 
-**Dev languages and Tools:**  
+**Stacks:**  
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="32" src="https://github.com/thiagomoyses/thiagomoyses/blob/main/docker-original-wordmark.svg"></code>
